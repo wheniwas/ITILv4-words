@@ -1,0 +1,193 @@
+英文术语	中文翻译
+Incident Management	事件管理
+Service Value Chain	服务价值链
+Guiding Principles	指导原则
+Service Level Agreements	服务级别协议
+Change Enablement	变更支持
+Problem Management	问题管理
+Continual Improvement	持续改进
+Service Desk	服务台
+Value Streams	价值流
+Service Provision	服务提供
+Service Consumption	服务消费
+Service Offering	服务产品
+Service Relationship	服务关系
+Service Configuration Management	服务配置管理
+Service Level Management	服务级别管理
+Supplier Management	供应商管理
+Deployment Management	部署管理
+Release Management	发布管理
+IT Asset Management	IT资产管理
+Change Control	变更控制
+Information Security Management	信息安全管理
+Operational Metrics	运营指标
+Business Metrics	业务指标
+Customer Engagement	客户参与
+Baseline Assessments	基线评估
+Service Review	服务评审
+Continual Improvement Register	持续改进登记册
+Automation	自动化
+Workflow Optimization	工作流优化
+Stakeholder Management	利益相关者管理
+Service Fulfilment	服务履行
+Vulnerability Management	漏洞管理
+Risk Assessment	风险评估
+Governance	治理
+Configuration Item	配置项
+Service Component	服务组件
+Service Interruption	服务中断
+Service Restoration	服务恢复
+Escalation	升级
+Service Catalog	服务目录
+Service Dependency	服务依赖
+Service Portfolio	服务组合
+Service Integration	服务集成
+Service Monitoring	服务监控
+Service Optimization	服务优化
+Service Transition	服务过渡
+Service Operation	服务运营
+Service Strategy	服务战略
+Service Design	服务设计
+Service Validation	服务验证
+Service Measurement	服务测量
+Service Reporting	服务报告
+Service Improvement Plan	服务改进计划
+Service Quality	服务质量
+Service Availability	服务可用性
+Service Capacity	服务容量
+Service Security	服务安全
+Service Continuity	服务连续性
+Service Compliance	服务合规性
+Service Audit	服务审计
+Service Governance	服务治理
+Service Lifecycle	服务生命周期
+Service Model	服务模型
+Service Blueprint	服务蓝图
+Service Architecture	服务架构
+Service Ecosystem	服务生态系统
+Service Orchestration	服务编排
+Service Choreography	服务编排
+Service Contract	服务合同
+Service Level Objective	服务级别目标
+Service Level Indicator	服务级别指标
+Service Level Target	服务级别目标
+Service Level Reporting	服务级别报告
+Service Level Negotiation	服务级别协商
+Service Catalog Management	服务目录管理
+Service Request Management	服务请求管理
+Service Incident	服务事件
+Service Problem	服务问题
+Service Change	服务变更
+Service Event	服务事件
+Service Knowledge Management	服务知识管理
+Service Financial Management	服务财务管理
+Service Demand Management	服务需求管理
+Service Capacity Management	服务容量管理
+Service Availability Management	服务可用性管理
+Service Continuity Management	服务连续性管理
+Service Security Management	服务安全管理
+Service Compliance Management	服务合规性管理
+Service Risk Management	服务风险管理
+Service Performance Management	服务绩效管理
+Service Value System	服务价值系统
+Service Value Stream	服务价值流
+Service Value Proposition	服务价值主张
+Service Value Co-Creation	服务价值共创
+Service Consumer	服务消费者
+Service Provider	服务提供者
+Service Integration and Management	服务集成与管理
+Service Dependency Mapping	服务依赖映射
+Service Health Monitoring	服务健康监控
+Service Impact Analysis	服务影响分析
+Service Recovery	服务恢复
+Service Resilience	服务韧性
+Service Scalability	服务可扩展性
+Service Standardization	服务标准化
+Service Customization	服务定制化
+Service Benchmarking	服务基准测试
+Service Maturity Model	服务成熟度模型
+Service Innovation	服务创新
+Service Disruption	服务中断
+Service Degradation	服务降级
+Service Feedback Loop	服务反馈循环
+Service Experience	服务体验
+Service Transparency	服务透明度
+Service Accountability	服务问责制
+Service Ownership	服务所有权
+Service Alignment	服务对齐
+Service Efficiency	服务效率
+Service Effectiveness	服务有效性
+Service Maturity	服务成熟度
+Service Evolution	服务演进
+Service Transformation	服务转型
+Workaround	临时解决方案
+Change Schedule	变更计划表
+Watermelon SLA Effect	西瓜SLA效应
+Warranty	保障性
+Utility	效用性
+Outcome	成果
+Output	输出
+Swarming	群策群力
+Change Authority	变更授权人
+Service Asset	服务资产
+Service Catalogue	服务目录
+Service Improvement	服务改进
+Service Tactics	服务战术
+Service Metrics	服务指标
+Service Fulfillment	服务履行
+Service Automation	服务自动化
+Service Verification	服务确认
+Service Reliability	服务可靠性
+Service Costing	服务成本核算
+Service Funding	服务资金管理
+Service Budgeting	服务预算编制
+Service Documentation	服务文档化
+Service Communication	服务沟通
+Service Stakeholder	服务利益相关者
+Service Supplier	服务供应商
+Service Integrator	服务集成商
+Service Broker	服务中介
+Service Gap Analysis	服务差距分析
+Service Outage	服务中断
+Service Redundancy	服务冗余
+Service Failover	服务故障切换
+Service Replication	服务复制
+Service Load Balancing	服务负载均衡
+Service Modularity	服务模块化
+Service Decoupling	服务解耦
+Service Versioning	服务版本控制
+Service Deprecation	服务弃用
+Service Retirement	服务退役
+Service Migration	服务迁移
+Service Integration Testing	服务集成测试
+Service Acceptance Testing	服务验收测试
+Service Performance Testing	服务性能测试
+Service Disaster Recovery	服务灾难恢复
+Service Backup	服务备份
+Service Archiving	服务归档
+Service Metadata	服务元数据
+Service Telemetry	服务遥测
+Service Observability	服务可观测性
+Service Traceability	服务可追溯性
+Service Adaptability	服务适应性
+Service Interoperability	服务互操作性
+Service Localization	服务本地化
+Service Globalization	服务全球化
+Service Vulnerability	服务漏洞
+Service Patch Management	服务补丁管理
+Service Criticality	服务关键性
+Service Prioritization	服务优先级划分
+Service Delegation	服务委派
+Service Collaboration	服务协作
+Service Negotiation	服务协商
+Service Obligation	服务义务
+Service Penalty	服务违约金
+Service Incentive	服务激励
+Service Credit	服务信用
+Service Penalty Clause	服务违约金条款
+Service Level Credit	服务级别信用
+Service Compensation	服务补偿
+Service Refund	服务退款
+Service Liability	服务责任
+Service Indemnity	服务赔偿
+Service Warranty	服务保修
